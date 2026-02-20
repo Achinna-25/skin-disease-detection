@@ -135,3 +135,26 @@ alt="Charvy">
 </tr>
 </table>
 
+
+Your existing project description here...
+
+(Existing content)
+
+------------------------------------------------
+
+## 🚀 Features
+- Skin disease prediction using ML model
+- Image preprocessing
+- Model training and inference
+- Easy-to-use interface
+
+## 🛠 Technologies Used
+- Python
+- TensorFlow / Keras
+- NumPy
+- OpenCV
+
+## 📌 Future Improvements
+- Improve model accuracy
+- Deploy using Flask
+- Add web interface
